@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1,     Sky News (cloud)
+https://d301yv2uyy17su.cloudfront.net/sky-news-live.m3u8
+#EXTINF:-1,     TRT World (720p)
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1,    Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,    BBC(ott)
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,    CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,    CNN International UK (720p)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,    DW English
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1,    EURONEWS English(b)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,    FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,    RT News(English)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,    RT UK (1080p)
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTINF:-1,    Reuters (1080p)
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,    Smash 7 news Malta(port)
+http://portal.ott.pink/watch/6996/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,   AfricaNews English (720p)
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,   Arise News (576p)
+https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1,   CNBC Europe
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1,   Global News (720p)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1,   Millennium TV 24 (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
+#EXTINF:-1,   Rai News 24 (720p)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1,  AL JAZEERA SD
+http://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1,  N1 BiH
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,  N1 Srbija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,  RTV NOVI PAZAR
+http://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1,  М НЕТ ИНФО Македониja
+https://ares.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1,3 Publika TV
+https://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:-1,AL Jazeera Arabic Live
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1,AR Sky news
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1,Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1,Al jazeera English半岛新闻 (1080p)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1,BCI 24 News (720p)
+https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+#EXTINF:-1,CBC Азербаиджан
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1,CBSN (720p)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,CGTN  РУССКИЙ
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,CGTN news
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1,CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1,CNN TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1,Canal Macau
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1,Das Erste DE
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1,ECHO 24 Poland
+http://insysgo.live.e57-po.insyscd.net/echo24.720.smil/chunklist.m3u8
+#EXTINF:-1,ERT News (720p) [Geo-blocked]
+http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1,Eng-channel news Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,Euronews (Denmark)
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Finland)
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (France)
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Ireland)
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Mexico)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Netherlands)
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Norway)
+https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews English-Sweden
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews España
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1,Euronews Italian
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1,Euronews Italiano
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews Portuguese
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1,Euronews Português (576p)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews Romania
+http://portal.ott.pink/watch/7434/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1,Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1,Expressen TV (720p)
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1,France 24
+http://portal.ott.pink/watch/145/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,France 24
+http://portal.ott.pink/watch/7538/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,GB News UK
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1,IT Rai 1
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1,IZ.RU HD
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1,Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1,Iran International (1080p)
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1,Jovem Pan News (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1,KGO-TV News (720p)
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+#EXTINF:-1,MD Moldova 1
+http://live.trm.md:1935/live/_definst_/MoldovaUnu1/index.m3u8
+#EXTINF:-1,Meteonews (1080p)
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1,Monaco Info (720p) [Not 24/7]
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1,N1 Hrvatska
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,NHK World (JP)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1,News 24 Albania
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1,NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1,One America News (720p)
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1,PRO TV Cişinau
+http://portal.ott.pink/watch/7466/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Polsat News 2
+http://portal.ott.pink/watch/7328/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Polsat news
+http://portal.ott.pink/watch/162/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Polsat news
+http://portal.ott.pink/watch/162/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Press TV French (720p) [Not 24/7]
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+#EXTINF:-1,RT English(ott)
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:-1,RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1,RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,Rai News 24
+http://portal.ott.pink/watch/7388/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Sky News
+http://portal.ott.pink/watch/7371/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1,Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1,TANJUG TV
+http://www.angelfire.com/musicals/enes/orionski/tanjug.m3u8
+#EXTINF:-1,TG 1 Italia
+http://ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1,TR Canlı 24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1,TR24  Teleromagna
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,TRT World(portal)
+http://portal.ott.pink/watch/148/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,TV Republika PL
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1,TVN 24 PL
+http://portal.ott.pink/watch/7501/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,TVP Poland info(port)
+http://portal.ott.pink/watch/175/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,TVP World
+http://portal.ott.pink/watch/175/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Talk TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+#EXTINF:-1,Tv 5 Monde FR(port)
+http://portal.ott.pink/watch/7016/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,Usa-Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Usa-Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1,VOA-Voice of America
+http://portal.ott.pink/watch/7484/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,WPEC CBS 12 news
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1,Дождь
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,КИÏВ
+http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Первый канал(ott)
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:-1,РТР-Планета(ott)
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1,Рада
+http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Россия 24 (Екатеринбург)
+http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
+#EXTINF:-1,Україна 24 (1080p)
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
